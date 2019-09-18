@@ -19,5 +19,5 @@ Software Requirement to run this project :-
 You need to install an IDE Eclipse / Myeclipse / Netbeans,
 Oracle 10g database.
 
-How to run this project
+How to run this project :-
 Import the project on the IDE and run it. All the tables will be created automatically.
